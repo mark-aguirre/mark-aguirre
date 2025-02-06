@@ -1,15 +1,9 @@
 Hi there 👋
-
-I am a Full Stack Engineer
-
-My tech stack: 
-
-My activities: 
-
-I'm currently working on an online casino platform https://player-companion.com/
-
+* I am a Full Stack Engineer
+* My tech stack: Java, Spring boot, Angular, React, SQL, Docker, kubernetes
+* I'm currently working on an online casino [Player-Companion](https://player-companion.com/)
+  
 Links
-
-*   Discord: 
-*   LinkedIn: [www.linkedin.com/in/markaguirre-dev](www.linkedin.com/in/markaguirre-dev)
-*   Portfolio: [https://virtual.is-a.dev/](https://virtual.is-a.dev)
+* Gmail: [aguirre.mark.s.r@gmail.com](mailto:aguirre.mark.s.r@gmail.com)
+* LinkedIn: [in/markaguirre-dev](www.linkedin.com/in/markaguirre-dev)
+* Website: [virtual.is-a.dev](https://virtual.is-a.dev)
