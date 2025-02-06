@@ -1,7 +1,7 @@
 Hi there 👋
 * I am a Full Stack Engineer passionate about creating tools for trading, online casinos, and productivity based on daily tasks.
 * My tech stack: Java, Spring boot, Angular, React, SQL, Docker, Kubernetes
-* I'm currently working on an online casino [Player-Companion](https://player-companion.com/)
+* I'm currently working on this platform [Player-Companion](https://player-companion.com/)
   
 Links
 * Gmail: [aguirre.mark.s.r@gmail.com](mailto:aguirre.mark.s.r@gmail.com)
