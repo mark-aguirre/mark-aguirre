@@ -1,6 +1,6 @@
 Hi there 👋
-* I am a Full Stack Engineer
-* My tech stack: Java, Spring boot, Angular, React, SQL, Docker, kubernetes
+* I am a Full Stack Engineer passionate about creating tools for trading, online casinos, and productivity based on daily tasks.
+* My tech stack: Java, Spring boot, Angular, React, SQL, Docker, Kubernetes
 * I'm currently working on an online casino [Player-Companion](https://player-companion.com/)
   
 Links
